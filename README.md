@@ -13,6 +13,8 @@ Aquí están todas las secciones del curso.
 |1|Variables|
 |2|Operaciones y tipos de datos|
 |3|Manejo de cadenas|
+|4|Condiciones|
+|5|Ciclos|
 
 ## Nivel intermedio
 
