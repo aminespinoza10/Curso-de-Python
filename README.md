@@ -34,7 +34,7 @@ Aquí están todas las secciones del curso.
 |-------|------|
 |1|[Formato de cadenas](./Intermedio/FormatoCadenas/)|
 |2|[Métodos](./Intermedio/Metodos/)|
-|3|[Clases](./Intermedio/Clases/)|
+|3|[Bibliotecas](./Intermedio/Bibliotecas/)|
 |4|[Variables de ambiente](./Intermedio/VariablesAmbiente/)|
 |5|[Excepciones](./Intermedio/Excepciones/)|
 |6|[Uso de JSON](./Intermedio/JSON/)|
